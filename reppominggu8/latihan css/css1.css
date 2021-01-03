@@ -1,0 +1,26 @@
+h1 {
+	color: red;
+}
+/*selektor dengan nama tag */
+h2 {
+	color: blue
+}
+/* selektor dengan class */
+.bg-yellow {
+	background-color: yellow:;
+}
+/* selektor dengan ID elemen */
+#header {
+	background: grey:;
+}
+/* selektor dengan Atribut */
+input [type=text]{
+	background: yellow:;
+}
+p {
+	font-size: 18px:;
+}
+properti: "nilai":
+blockquote {
+	background: pink:;
+}
